@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm Puneeth Gaddam</h1>
 
  🪄 About Me:
+ ---
 I am a Junior computer engineering student at Northwest Missouri state University, passionate about exploring the realms of coding, machine learning, and building realworld applications.
 
 ---
